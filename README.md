@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelsattar Emam</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3FC495&center=true&vCenter=true&width=500&lines=Flutter+Developer;Programming+Instructor;3%2B+Years+Experience;10%2B+Apps+Published" alt="Typing SVG" />
+  </a>
+</p>
+
+<h3 align="center">A passionate Flutter Developer & Instructor from Egypt</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on [EngliVision](https://play.google.com/store/apps/details?id=com.englivision.smart&hl=en)  
-- 🌱 I’m currently learning **Back-end with .NET**  
-- 🎓 Instructor & Mentor in **Flutter** and **C++ Fundamentals**  
-- 💡 Passionate about **clean architecture**, **problem solving**, and **teaching programming**  
+- 🚀 Flutter Developer with **3 years of experience**.  
+- 📱 Worked on **10+ published mobile applications** (E-commerce, LMS, Education, Family Management, and more).  
+- 🎓 Instructor in **Flutter development** and **C++ fundamentals**.  
+- 💡 Passionate about **clean architecture**, **problem solving**, and **teaching programming**.  
+- 🔭 Currently working on [EngliVision](https://play.google.com/store/apps/details?id=com.englivision.smart&hl=en).  
+- 🌱 Currently learning **Back-end with .NET**.  
 - 📫 Reach me at: **ahmedabdelsattar28@gmail.com**
 
 ---
@@ -49,6 +58,6 @@
 ---
 
 ### ⚡ Fun Fact  
-💬 *"Teaching others is the fastest way to learn yourself."*  
+💬 *"I believe that the best way to master programming is to teach it."*  
 
 ---
